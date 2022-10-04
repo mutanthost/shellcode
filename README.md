@@ -11,7 +11,7 @@ sh-3.2# id -a
 uid=0(root) gid=0(wheel)  
 ```
 ![](osx_root_shell.jpg)  
-<img src="https://github.com/mutanthost/shellcode/osx_root_shell.jpg"/>  
+  
   
 Use responsibly.     
 All rights reserved. All wrongs reversed.  
